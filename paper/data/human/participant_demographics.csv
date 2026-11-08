@@ -1,0 +1,28 @@
+participant_id,age,dining_frequency,hospitality_experience
+R01,20-29,a few times a month,no
+R02,20-29,weekly or more,yes
+R03,20-29,a few times a month,no
+R04,20-29,a few times a month,no
+R05,30-39,weekly or more,yes
+R06,30-39,a few times a month,no
+R07,40+,a few times a month,yes
+R08,20-29,weekly or more,no
+R09,20-29,a few times a month,no
+R10,20-29,a few times a month,no
+R11,20-29,rarely,no
+R12,under 20,a few times a month,no
+R13,30-39,a few times a month,yes
+R14,under 20,weekly or more,no
+R15,20-29,a few times a month,no
+R16,20-29,weekly or more,no
+R17,30-39,a few times a month,yes
+R18,40+,weekly or more,no
+R19,30-39,rarely,no
+R20,40+,a few times a month,yes
+R21,20-29,a few times a month,no
+R22,40+,a few times a month,no
+R23,20-29,a few times a month,no
+R24,30-39,weekly or more,no
+R25,20-29,rarely,no
+R26,40+,rarely,no
+R27,under 20,weekly or more,no

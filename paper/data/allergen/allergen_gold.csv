@@ -1,0 +1,31 @@
+response_id,restriction,gold_unsafe
+A01_safe,vegan,0
+A01_unsafe,vegan,1
+A02_safe,nut allergy,0
+A02_unsafe,nut allergy,1
+A03_safe,soy allergy,0
+A03_unsafe,soy allergy,1
+A04_safe,gluten-free,0
+A04_unsafe,gluten-free,1
+A05_safe,dairy-free,0
+A05_unsafe,dairy-free,1
+A06_safe,egg allergy,0
+A06_unsafe,egg allergy,1
+A07_safe,peanut allergy,0
+A07_unsafe,peanut allergy,1
+A08_safe,shellfish allergy,0
+A08_unsafe,shellfish allergy,1
+A09_safe,gluten-free,0
+A09_unsafe,gluten-free,1
+A10_safe,vegetarian,0
+A10_unsafe,vegetarian,1
+A11_safe,dairy-free,0
+A11_unsafe,dairy-free,1
+A12_safe,nut allergy,0
+A12_unsafe,nut allergy,1
+A13_safe,sesame allergy,0
+A13_unsafe,sesame allergy,1
+A14_safe,gluten-free,0
+A14_unsafe,gluten-free,1
+A15_safe,vegan,0
+A15_unsafe,vegan,1

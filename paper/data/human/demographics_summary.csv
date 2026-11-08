@@ -1,0 +1,10 @@
+variable,category,count
+age,under 20,3
+age,20-29,13
+age,30-39,6
+age,40+,5
+dining_frequency,rarely,4
+dining_frequency,a few times a month,15
+dining_frequency,weekly or more,8
+hospitality_experience,yes,6
+hospitality_experience,no,21
